@@ -15,11 +15,12 @@ function Navbar() {
         <h1 className="">Navbar</h1>
       </div>
       
-        <ul className="navbarLinks items-center flex font-sans">
-          <li className="px-4">About</li>
-          <li className="px-4">Contact</li>
-          <li className="px-4">Login</li>
-          <li className="px-4"><a>Register</a></li>
+        <ul className="navbarLinks list-none items-center flex font-sans">
+          <li className="px-4"><a href="">Cinema</a></li>
+          <li className="px-4"><a href="">TV Shows</a></li>
+          <li className="px-4"><a href="">New Releases</a></li>
+          <li className="px-4"><a href="">Login</a></li>
+          <li className="px-4"><a href="">Register</a></li>
         </ul>
       
     </div>
